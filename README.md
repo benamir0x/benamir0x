@@ -15,8 +15,8 @@
   <a href="https://www.linkedin.com/in/benjamin-amir93/">
     <img src="https://img.shields.io/badge/LinkedIn-benamir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Ben-dev276">
-    <img src="https://img.shields.io/badge/GitHub-Ben--dev276-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/benamir0x">
+    <img src="https://img.shields.io/badge/GitHub-benamir0x-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
     <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
