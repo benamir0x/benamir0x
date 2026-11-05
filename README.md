@@ -117,7 +117,7 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 | ⚡ DC/DC Converter | Electronic design and power conversion | PSIM, PCB, MOSFET |
 | 🖥️ Homelab & Infrastructure | Linux, virtualization, containers and monitoring | Proxmox, Docker, K3S, Grafana |
 | 🔐 Security Lab | Networking, system hardening and security experiments | Linux, Nmap, Wireshark, Lynis |
-| 🧠 Virtual AI Coach | Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
+| 🧠 Virtual AI Coach (Collaborative project for 2) with @Alexon1999| Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
 | ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA
 
 ---------------------------------------------------------------------------------------------------------------------
