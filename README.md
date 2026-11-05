@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://benamir-infra.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-benamir-infra-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-benamir--infra-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/benjamin-amir93/">
     <img src="https://img.shields.io/badge/LinkedIn-benamir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
