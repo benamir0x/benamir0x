@@ -39,50 +39,6 @@ I'm interested in the convergence of **IT/OT**, critical infrastructure, industr
 
 ## 🛠️ Tech Stack
 
-**Programming & Embedded Systems**
-
-<img src="https://skillicons.dev/icons?i=c,python,js,bash,rust" />
-
-**Infrastructure & DevOps**
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,ansible" />
-
-**Cybersecurity & Networking**
-
-<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,wireguard,pfsense" />
-
-**Monitoring & Automation**
-
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,oraclecloud," />
-
-**Electronics, Industrial Systems & AI**
-
-FPGA • VHDL • Arduino • ESP32 • PLC • MQTT • Modbus • G-code • OpenCV • MediaPipe
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🌦️ Weather Station | Environmental data acquisition and visualization | ESP32, C++, MQTT, Docker |
-| 🤖 Autonomous Robot | Sensor integration, motor control and automation | Arduino, C++, PWM |
-| ⚡ DC/DC Converter | Electronic design and power conversion | PSIM, PCB, MOSFET |
-| 🖥️ Homelab & Infrastructure | Linux, virtualization, containers and monitoring | Proxmox, Docker, K3S, Grafana |
-| 🔐 Security Lab | Networking, system hardening and security experiments | Linux, Nmap, Wireshark, Lynis |
-| 🧠 Virtual AI Coach | Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
-| ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA |
----
-
-<div align="center">
-
-### ⚡ ENGINEER • BUILD • SECURE • INNOVATE
-
-*Always learning. Always building.*
-
-</div>
-
-
-## 🛠️ Tech Stack
-
 ### 💻 Programming & Embedded Systems
 
 <p>
@@ -146,3 +102,23 @@ FPGA • VHDL • Arduino • ESP32 • PLC • MQTT • Modbus • G-code • O
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🌦️ Weather Station | Environmental data acquisition and visualization | ESP32, C++, MQTT, Docker |
+| 🤖 Autonomous Robot | Sensor integration, motor control and automation | Arduino, C++, PWM |
+| ⚡ DC/DC Converter | Electronic design and power conversion | PSIM, PCB, MOSFET |
+| 🖥️ Homelab & Infrastructure | Linux, virtualization, containers and monitoring | Proxmox, Docker, K3S, Grafana |
+| 🔐 Security Lab | Networking, system hardening and security experiments | Linux, Nmap, Wireshark, Lynis |
+| 🧠 Virtual AI Coach | Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
+| ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA |
+---
+
+<div align="center">
+
+### ⚡ ENGINEER • BUILD • SECURE • INNOVATE
+
+*Always learning. Always building.*
+
+</div>
