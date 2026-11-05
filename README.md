@@ -21,21 +21,27 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-🎓 Second-year **BUT GEII – Electrical Engineering & Energy Management (EME)** student at Université Sorbonne Paris Nord.
+🎓 I'm a second-year **BUT GEII – Electrical Engineering & Energy Management (EME)** student at **Université Sorbonne Paris Nord**.
 
-I'm interested in the convergence of **IT/OT**, critical infrastructure, industrial systems and cybersecurity.
+I'm curious about how **IT and OT work together** — connecting computer networks, software and cybersecurity with industrial systems, automation and physical equipment.
 
-- ⚡ Electrical engineering, energy and industrial automation.
-- 🛡️ DevSecOps and defensive/offensive cybersecurity.
-- 🖥️ Linux administration, networking and infrastructure.
-- 🔧 Embedded systems, electronics and robotics.
-- 🤖 Artificial intelligence and automation.
-- ☁️ Homelab, virtualization, containers and monitoring.
+I enjoy learning, building projects and exploring different areas of technology:
 
-**My goal:** Build, understand and secure reliable industrial and digital infrastructures.
+- ⚡ **Electrical Engineering:** Energy systems, electronics and industrial automation.
+- 🔗 **IT/OT Convergence:** Connecting IT infrastructure with industrial environments.
+- 🛡️ **Cybersecurity:** Learning how to protect networks, systems and critical infrastructure.
+- 🖥️ **IT & Infrastructure:** Linux, networking, virtualization and system administration.
+- 🔧 **Embedded Systems & Robotics:** Microcontrollers, FPGA, sensors and hardware projects.
+- 🤖 **AI & Automation:** Exploring computer vision, smart systems and automation.
+- ☁️ **Homelab:** Building and testing my own infrastructure with containers, monitoring and virtualization.
+
+**🎯 My Goal**
+
+To keep learning and building practical skills at the intersection of **IT, OT, industrial systems and cybersecurity**, and help make connected infrastructures more reliable and secure.
+
+*Always learning. Always building. Always exploring.*
 
 ## 🛠️ Tech Stack
 
