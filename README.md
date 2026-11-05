@@ -79,3 +79,70 @@ FPGA • VHDL • Arduino • ESP32 • PLC • MQTT • Modbus • G-code • O
 *Always learning. Always building.*
 
 </div>
+
+
+## 🛠️ Tech Stack
+
+### 💻 Programming & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge" />
+</p>
+
+### ⚡ Electronics, Industrial Systems & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/FPGA-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VHDL-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLC-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modbus-34495E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/G--code-444444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCADA-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PICkit%203-555555?style=for-the-badge" />
+</p>
+
+### 🖥️ Infrastructure, Linux & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 🔐 Cybersecurity & Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lynis-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+</p>
+
+### 📊 Monitoring, Automation & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
