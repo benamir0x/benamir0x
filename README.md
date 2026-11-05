@@ -21,8 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
 
------------------
-
+---------------------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://benamir-infra.vercel.app/" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Portfolio-benamir--infra-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -36,9 +35,12 @@
   <img src="https://komarev.com/ghpvc/?username=benamir0x&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
 
------------------------
+---------------------------------------------------------------------------------------------------------------------
 
----
+
+
+
+
 ## 👨‍💻 About Me
 
 🎓 I'm a second-year **BUT GEII – Electrical Engineering & Energy Management (EME)** student at **Université Sorbonne Paris Nord**.
@@ -136,8 +138,9 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 | 🖥️ Homelab & Infrastructure | Linux, virtualization, containers and monitoring | Proxmox, Docker, K3S, Grafana |
 | 🔐 Security Lab | Networking, system hardening and security experiments | Linux, Nmap, Wireshark, Lynis |
 | 🧠 Virtual AI Coach | Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
-| ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA |
----
+| ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA
+
+---------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 
