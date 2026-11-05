@@ -41,7 +41,7 @@ I'm interested in the convergence of **IT/OT**, critical infrastructure, industr
 
 **Programming & Embedded Systems**
 
-<img src="https://skillicons.dev/icons?i=c,python,js,tsx,bash,assembly,rust" />
+<img src="https://skillicons.dev/icons?i=c,python,js,bash,rust" />
 
 **Infrastructure & DevOps**
 
