@@ -31,7 +31,7 @@
   <a href="https://github.com/Ben-dev276">
     <img src="https://img.shields.io/badge/GitHub-Ben--dev276-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Ben-dev276&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
+    <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
 
 
