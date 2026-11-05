@@ -20,29 +20,37 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
+------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
 🎓 I'm a second-year **BUT GEII – Electrical Engineering & Energy Management (EME)** student at **Université Sorbonne Paris Nord**.
 
-I'm curious about how **IT and OT work together** — connecting computer networks, software and cybersecurity with industrial systems, automation and physical equipment.
+I'm curious about how **IT and OT work together**, connecting computer networks, software and cybersecurity with industrial systems, automation and physical equipment.
 
-I enjoy learning, building projects and exploring different areas of technology:
+I enjoy learning, building projects and exploring different areas of technology.
 
-- ⚡ **Electrical Engineering:** Energy systems, electronics and industrial automation.
-- 🔗 **IT/OT Convergence:** Connecting IT infrastructure with industrial environments.
-- 🛡️ **Cybersecurity:** Learning how to protect networks, systems and critical infrastructure.
-- 🖥️ **IT & Infrastructure:** Linux, networking, virtualization and system administration.
-- 🔧 **Embedded Systems & Robotics:** Microcontrollers, FPGA, sensors and hardware projects.
-- 🤖 **AI & Automation:** Exploring computer vision, smart systems and automation.
-- ☁️ **Homelab:** Building and testing my own infrastructure with containers, monitoring and virtualization.
+⚡ **Electrical Engineering:** Energy systems, electronics and industrial automation.
 
-**🎯 My Goal**
+🔗 **IT/OT Convergence:** Connecting IT infrastructure with industrial environments.
+
+🛡️ **Cybersecurity:** Learning how to protect networks, systems and critical infrastructure.
+
+🖥️ **IT & Infrastructure:** Linux, networking, virtualization and system administration.
+
+🔧 **Embedded Systems & Robotics:** Microcontrollers, FPGA, sensors and hardware projects.
+
+🤖 **AI & Automation:** Exploring computer vision, smart systems and automation.
+
+☁️ **Homelab:** Building and testing my own infrastructure with containers, monitoring and virtualization.
+
+### 🎯 My Goal
 
 To keep learning and building practical skills at the intersection of **IT, OT, industrial systems and cybersecurity**, and help make connected infrastructures more reliable and secure.
 
 *Always learning. Always building. Always exploring.*
 
+----------------------------------------------------------------------
 ## 🛠️ Tech Stack
 
 ### 💻 Programming & Embedded Systems
