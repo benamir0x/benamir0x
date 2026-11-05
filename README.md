@@ -57,7 +57,7 @@ I'm interested in the convergence of **IT/OT**, critical infrastructure, industr
 
 **Electronics, Industrial Systems & AI**
 
-ESP32 • Arduino • PLC • MQTT • Modbus • VHDL • OpenCV • MediaPipe
+FPGA • VHDL • Arduino • ESP32 • PLC • MQTT • Modbus • G-code • OpenCV • MediaPipe
 
 ## 🚀 Featured Projects
 
