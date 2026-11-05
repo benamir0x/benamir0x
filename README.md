@@ -20,40 +20,21 @@
 
 </div>
 
--------------------------------------------------------
-<!-- Typing animation -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Benamir;Exploring+IT%2FOT+Convergence;Building+and+Securing+Infrastructure;Electronics%2C+Embedded+Systems+%26+Robotics;Learning+Cybersecurity+%26+Artificial+Intelligence" alt="Typing SVG" />
-</p>
-
-<br/>
-
-<!-- Profile links and badges -->
-<p align="center">
-
-  <a href="https://benamir-infra.vercel.app/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2dd4bf?style=flat-square&logo=vercel&logoColor=white"/>
+  <a href="https://benamir-infra.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <a href="https://github.com/Ben-dev276" target="_blank">
-    <img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-Ben--dev276-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/benjamin-amir93/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://www.linkedin.com/in/benjamin-amir93/" target="_blank">
-    <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Benjamin%20Amir-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-
   <a href="https://github.com/Ben-dev276">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/Ben-dev276?style=flat-square&logo=github&label=Followers&color=6366f1"/>
+    <img src="https://img.shields.io/badge/GitHub-Ben--dev276-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <img alt="Profile Visitors" src="https://komarev.com/ghpvc/?username=Ben-dev276&style=flat-square&color=0891b2&label=PROFILE+VISITORS"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Ben-dev276&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
 
 
-
------------------------------------------------------
 ---
 ## 👨‍💻 About Me
 
