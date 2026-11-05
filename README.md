@@ -20,7 +20,6 @@
   </a>
     <img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
 </p>
-------------------------------------------------------------------
 
 ## 👨‍💻 About Me
 
