@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://benamir-infra.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-benamir-infra-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/benjamin-amir93/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-benamir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ben-dev276">
     <img src="https://img.shields.io/badge/GitHub-Ben--dev276-181717?style=for-the-badge&logo=github&logoColor=white" />
