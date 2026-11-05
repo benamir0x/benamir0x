@@ -8,19 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Connecting+Industrial+Systems+%26+IT;Building+and+Securing+Infrastructure;Exploring+Embedded+Systems+%26+Robotics;Learning+Cybersecurity+%26+Artificial+Intelligence" />
 
-<br/>
-
-<a href="https://github.com/Ben-dev276">
-<img src="https://komarev.com/ghpvc/?username=TON-PSEUDO&style=for-the-badge&color=0891b2&label=PROFILE+VISITORS" />
-</a>
-
-<a href="https://www.linkedin.com/in/benjamin-amir93/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
-
 <p align="center">
   <a href="https://benamir-infra.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" />
