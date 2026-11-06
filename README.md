@@ -50,6 +50,7 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 *Always learning. Always building. Always exploring.*
 
 ----------------------------------------------------------------------
+
 ## 🛠️ Tech Stack
 
 ### 🌐 Web Development & Scripting 
@@ -126,6 +127,8 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
   <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <!-- en cours d'apprentisage -->
 </p>
+
+----------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
