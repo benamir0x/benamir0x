@@ -142,7 +142,7 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 | 🌦️ Weather Station | Environmental data acquisition and visualization | ESP32, C++, MQTT, Docker |
 | 🤖 Autonomous Robot | Sensor integration, motor control and automation | Arduino, C++, PWM |
 | ⚡ DC/DC Converter | Electronic design and power conversion | PSIM, PCB, MOSFET |
-| 🖥️ Homelab & Infrastructure | Linux, virtualization, containers and monitoring | Proxmox, Docker, K3S, Grafana |
+| 🖥️ Homelab & Infrastructure | Linux & hardening, virtualization, containers and monitoring | Docker, K3S, Grafana, Prometheus |
 | 🔐 Security Lab & Cybersecurity (Off/Def) | Networking, system hardening and security experiments | Linux, Nmap, Wireshark, Lynis |
 | 🧠 Virtual AI Coach — Collaborative project with [@Alexon1999](https://github.com/Alexon1999) (2 contributors) | Real-time computer vision and posture analysis | Python, OpenCV, MediaPipe |
 | ☀️ AGS — Solar Analysis & Management | Solar system analysis, programmable logic and industrial supervision | Assembly, FPGA, PICkit 3, LabVIEW, Node-RED, SCADA
