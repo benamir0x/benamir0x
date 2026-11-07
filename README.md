@@ -6,7 +6,7 @@
 
 ### GEII Student | IT/OT | SecOps | Cybersecurity | Embedded Systems & AI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Connecting+Industrial+Systems(OT)+%26+IT;Building+and+Securing+Infrastructure;Exploring+Embedded+Systems+%26+Robotics;Learning+Cybersecurity+%26+Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=650&lines=Connecting+Industrial+Systems (OT)+%26+IT;Building+and+Securing+Infrastructure;Exploring+Embedded+Systems+%26+Robotics;Learning+Cybersecurity+%26+Artificial+Intelligence" />
 
 <p align="center">
   <a href="https://benamir-infra.vercel.app/">
