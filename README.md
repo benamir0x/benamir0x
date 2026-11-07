@@ -50,6 +50,9 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 *Always learning. Always building. Always exploring.*
 
 ----------------------------------------------------------------------
+<!-- Je suis un étudiant passionné et curieux, toujours désireux d'apprendre, de comprendre et d'explorer de nouvelles technologies. Mon objectif est de développer et d'élargir progressivement mes compétences afin de pouvoir les mettre en pratique dans différents types de projets et m'adapter à des situations et des besoins variés. --> 
+
+<!-- I am a passionate and curious student, always eager to learn, understand and explore new technologies. My goal is to continuously develop and expand my skills so I can apply them to different types of projects and adapt to various situations and needs. -->
 
 ## 🛠️ Tech Stack
 
@@ -153,3 +156,8 @@ To keep learning and building practical skills at the intersection of **IT, OT, 
 *Always learning. Always building.*
 
 </div>
+
+<!-- Je suis un étudiant passionné et curieux, toujours désireux d'apprendre, de comprendre et d'explorer de nouvelles technologies. Mon objectif est de développer et d'élargir progressivement mes compétences afin de pouvoir les mettre en pratique dans différents types de projets et m'adapter à des situations et des besoins variés. --> 
+
+<!-- I am a passionate and curious student, always eager to learn, understand and explore new technologies. My goal is to continuously develop and expand my skills so I can apply them to different types of projects and adapt to various situations and needs. -->
+
